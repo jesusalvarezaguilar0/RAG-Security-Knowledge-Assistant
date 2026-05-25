@@ -122,18 +122,6 @@ This project taught me how Retrieval-Augmented Generation differs from tradition
 
 ---
 
-## Screenshots
-
-### Flowise Chatflow
-
-(Add screenshot here)
-
-### Example Chat Session
-
-(Add screenshot here)
-
----
-
 ## Demo
 
 Flowise Chatbot:
